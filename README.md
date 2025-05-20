@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**Vidhiyavarshini/Vidhiyavarshini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Simple GitHub Program</title>
+</head>
+<body>
+  <h1>Hello, GitHub!</h1>
+  <p>This is a simple HTML program hosted on GitHub.</p>
+</body>
+</html>
